@@ -1,0 +1,14 @@
+{
+  "name": "codequorum",
+  "version": "0.1.0",
+  "description": "A real-time collaborative code editor",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Nishant Luhera",
+  "license": "MIT"
+}

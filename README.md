@@ -15,3 +15,44 @@ CodeQuorum is a real-time collaborative code editor currently under development.
 
 🚧 **This project is in active development** 🚧
 
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- Node.js (https://nodejs.org/)
+- npm (https://www.npmjs.com/)
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/nishantkluhera/CodeQuorum.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Start the server
+   ```sh
+   npm start
+   ```
+
+## Usage
+
+To use the project, simply navigate to `http://localhost:3000` in your web browser. You should see a "Hello, World!" message.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
